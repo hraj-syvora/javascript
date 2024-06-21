@@ -32,3 +32,4 @@ switch(choice){
     default:
         console.log()    
 }
+const add=1;
