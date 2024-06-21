@@ -33,3 +33,4 @@ switch(choice){
         console.log()    
 }
 const add=1;
+const sub=1;
